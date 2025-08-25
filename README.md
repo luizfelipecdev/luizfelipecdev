@@ -5,7 +5,7 @@ Desenvolvedor iOS Jr. focado em **Swift, SwiftUI e UIKit** <br>
 Apaixonado por transformar ideias em aplicativos nativos para iPhone e iPad  
 
 
-## ⚡ Tecnologias e Ferramentas 
+##  Tecnologias e Ferramentas 
 <p align="left">
   <img height=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
   <img height=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
@@ -30,4 +30,4 @@ Apaixonado por transformar ideias em aplicativos nativos para iPhone e iPad
 
 ---
 
-🚀 Sempre em busca de aprender, crescer e criar aplicativos incríveis para o ecossistema Apple 🍏
+ Sempre em busca de aprender, crescer e criar aplicativos incríveis para o ecossistema Apple 🍏
