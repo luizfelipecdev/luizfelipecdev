@@ -2,7 +2,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas <br>
 Desenvolvedor iOS Jr. focado em **Swift, SwiftUI e UIKit** <br>
-Apaixonado por transformar ideias em aplicativos nativos para iPhone e iPad  
+Apaixonado por transformar ideias em aplicativos nativos para iPhone.
 
 
 ##  Tecnologias e Ferramentas 
